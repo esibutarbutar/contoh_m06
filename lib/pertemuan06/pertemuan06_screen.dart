@@ -153,7 +153,8 @@ class DesProgrammer extends StatelessWidget {
             Text('Deskripsi Programmer',
                 style: TextStyle(fontWeight: FontWeight.bold)),
             Padding(padding: EdgeInsets.only(top: 5)),
-            Text("Programmer adalah ......")
+            Text("Programmer adalah ......"),
+            Image.asset('lib/assets/satu.jpg')
           ]),
         )
       ]),
